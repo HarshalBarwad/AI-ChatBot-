@@ -1,0 +1,5 @@
+---terminal--
+pip install google-generativeai
+pip install google-genai
+
+note- required to run the AI chatbot with gemini AI
